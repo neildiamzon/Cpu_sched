@@ -787,8 +787,7 @@ public class CPU_with_MFT extends javax.swing.JFrame {
                             }
                             }
                              catch(ArrayIndexOutOfBoundsException err ){                                  
-                             }
-                           
+                             }                           
                         }
                         //PRIORITY Q1>Q2>Q3 && DONEFLAG FOR RUN TABLE ONCE IN 1 SECOND
                         if (Q1.getRowCount()>0&&doneflag == false){                            
