@@ -21,7 +21,7 @@ import javax.swing.JTable;
 import javax.swing.Timer;
 import javax.swing.table.DefaultTableModel;
 /**
- *
+ *ssss
  * @author neila
  */
 public class CPU_with_MFT extends javax.swing.JFrame {
